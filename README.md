@@ -1,21 +1,19 @@
 ## EnisMulic
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<h2> :scroll: Lorem ipsum</h2>
-<ul>
-    <li>Lorem ipsum</li>
-    <li>Lorem ipsum</li>
-    <li>Lorem ipsum</li>    
-    <li>Lorem ipsum</li>    
-    <li>Lorem ipsum</li>    
-    <li>Lorem ipsum</li>    
-    <li>Lorem ipsum</li>    
-    <li>Lorem ipsum</li>
-</u>
 
-</br>
+## :scroll: Lorem ipsum
+ - Lorem ipsum
+ - Lorem ipsum
+ - Lorem ipsum    
+ - Lorem ipsum    
+ - Lorem ipsum    
+ - Lorem ipsum    
+ - Lorem ipsum    
+ - Lorem ipsum
 
-## :hammer_and_wrench: Tools
+
+## :hammer_and_wrench: Tools 
 
 <div>
 <!-- C -->
