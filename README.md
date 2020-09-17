@@ -1,7 +1,7 @@
 ## EnisMulic
 
 
-<div align="left">
+<div>
 <!-- C -->
 <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="25" height="25" title="C"/> 
 
