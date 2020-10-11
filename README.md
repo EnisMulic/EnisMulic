@@ -1,3 +1,7 @@
+
+[![](https://img.shields.io/badge/-Enis%20Mulić-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enis-muli%C4%87/)](https://www.linkedin.com/in/enis-muli%C4%87/)
+</br></br>
+
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ## :scroll: Lorem ipsum
