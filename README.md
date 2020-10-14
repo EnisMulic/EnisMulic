@@ -4,18 +4,12 @@
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-## :scroll: Lorem ipsum
- - Lorem ipsum
- - Lorem ipsum
- - Lorem ipsum    
- - Lorem ipsum    
- - Lorem ipsum    
- - Lorem ipsum    
- - Lorem ipsum    
- - Lorem ipsum
+## 📜 About me
+ - 🌱 Currently learning Go 
 
 
-## :hammer_and_wrench: Tools 
+
+## 🛠️ Tools 
 
 <div>
 <!-- C -->
