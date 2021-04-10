@@ -5,7 +5,7 @@
 
 ## 📜 About me
 
-- 🌱 Currently learning Go, React and React Native
+-   🌱 Currently learning Go, React and Microservices
 
 ## 🛠️ Tools
 
@@ -21,6 +21,9 @@
 
 <!-- Dot Net -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="25" height="25" title="Dot Net"/>
+
+<!-- Dot Net Core-->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="25" height="25" title="Dot Net Core"/>
 
 <!-- Python -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25" title="Python"/>
@@ -56,6 +59,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="git" width="25" height="25" title="Microsoft SQL Server"/>
 
 <!-- SQL Alchemy -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="git" width="25" height="25" title="Microsoft SQL Server"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="git" width="25" height="25" title="SQLAlchemy"/>
+
+<!-- GraphQL -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="git" width="25" height="25" title="GraphQL"/>
 
 </div>
