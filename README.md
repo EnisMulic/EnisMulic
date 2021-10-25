@@ -1,11 +1,11 @@
-[![](https://img.shields.io/badge/-Enis%20Mulić-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enis-muli%C4%87/)](https://www.linkedin.com/in/enis-muli%C4%87/)
+[![](https://img.shields.io/badge/-Enis%20Mulić-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enis-muli%C4%87/)](https://www.linkedin.com/in/enis-muli%C4%87/) ![](https://komarev.com/ghpvc/?username=EnisMulic&label=Profile+views)
 </br></br>
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ## 📜 About me
 
--   🌱 Currently learning Go, React and Microservices
+-   🌱 Currently learning microservices
 
 ## 🛠️ Tools
 
@@ -59,9 +59,18 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="git" width="25" height="25" title="Microsoft SQL Server"/>
 
 <!-- SQL Alchemy -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="git" width="25" height="25" title="SQLAlchemy"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQL Alchemy" width="25" height="25" title="SQLAlchemy"/>
 
 <!-- GraphQL -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="git" width="25" height="25" title="GraphQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="25" height="25" title="GraphQL"/>
+
+<!-- GraphQL -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="25" height="25" title="GraphQL"/>
 
 </div>
+
+## 📈 Stats
+
+</br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=EnisMulic)
