@@ -6,6 +6,7 @@
 ## 📜 About me
 
 -   🌱 Currently learning microservices
+-   🔭 Looking for collaborators
 
 ## 🛠️ Tools
 
@@ -64,8 +65,8 @@
 <!-- GraphQL -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="25" height="25" title="GraphQL"/>
 
-<!-- GraphQL -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="25" height="25" title="GraphQL"/>
+<!-- Go -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="25" height="25" title="Go"/>
 
 </div>
 
