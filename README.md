@@ -5,7 +5,7 @@
 
 ## 📜 About me
 
--   🌱 Currently learning microservices
+-   🌱 ~~Currently learning microservices~~
 -   🔭 Looking for collaborators
 
 ## 🛠️ Tools
@@ -67,6 +67,12 @@
 
 <!-- Go -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="25" height="25" title="Go"/>
+
+<!-- MongoDB -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="Go" width="25" height="25" title="MongoDB"/>
+
+<!-- Terraform -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Go" width="25" height="25" title="Terraform"/>
 
 </div>
 
