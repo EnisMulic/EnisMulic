@@ -5,8 +5,7 @@
 
 ## 📜 About me
 
--   🌱 ~~Currently learning microservices~~
--   🔭 Looking for collaborators
+-   🧰 Working on [Rječnik](https://github.com/OpenSourceSarajevo/rjecnik)
 
 ## 🛠️ Tools
 
